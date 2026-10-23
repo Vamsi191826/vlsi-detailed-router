@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.log
+*.def
+*.lef
+*.guide
+!examples/*.def
+!examples/*.lef
+!examples/*.guide
